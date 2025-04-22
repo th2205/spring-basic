@@ -1,4 +1,4 @@
-package spring;
+package springBeen;
 
 public class GameRunner {
     private final GameConsole game;

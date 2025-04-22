@@ -1,4 +1,7 @@
-package spring;
+package springBeen;
+
+import org.springframework.stereotype.Component;
+
 
 public class MarioGame implements GameConsole {
     public void up() {

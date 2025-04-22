@@ -1,4 +1,4 @@
-package spring;
+package springBeen;
 
 public interface GameConsole {
     void up();
